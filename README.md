@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trix-04
 - 👀 I’m interested in UI/UX Design & Front-end coding
-- 🌱 I’m currently learning HTML,CSS and Graphics Design
+- 🌱 I’m currently learning HTML,CSS and 3D animations
 - 💞️ I’m looking to collaborate on any projects to build my portfolio!
 - 📫 How to reach me: jen.trish4@gmail.com
 - 😄 Pronouns: I'm/HER
