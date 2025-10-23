@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trish!
 - 👀 I’m interested in UI/UX Design & Front-end coding
-- 🌱 I’m currently learning full-stack coding, 3D animations and database programming
+- 🌱 I’m currently learning full-stack coding, web/graphics design and database programming
 - 💞️ I’m looking to collaborate on any projects to build my portfolio!
 - 📫 How to reach me: trix4130@gmail.com
 - 😄 Pronouns: I'm/HER
